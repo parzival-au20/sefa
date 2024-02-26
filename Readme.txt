@@ -1,0 +1,1 @@
+Eğer tshark hatası alırsan pysharkın içindeki config.ini dosyasında tshark.exe path'ini ver aynı şekilde dump.exe'ninde

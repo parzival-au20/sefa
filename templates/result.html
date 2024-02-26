@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PCAP READER</title>
+    <link rel="stylesheet" href="../static/bootstrap-css/bootstrap.min.css">
+    <script src="../static/bootstrap-js/bootstrap.bundle.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.inputmask/5.0.6/jquery.inputmask.min.js"></script>
+    <script src="../static/bootstrap-js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="../static/css/mystyle.css">
+    <link rel="stylesheet" href="../static/css/style.css">
+    <link href='../static/boxicons-2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+</head>
+  <script>
+      function showLoader() {
+          document.getElementById("loader").style.display = "block";
+      }
+      function hideLoader() {
+          document.getElementById("loader").style.display = "none";
+      } 
+  </script>
+<body>
+    
+        <header class="header">
+          <a href="#" class="logo-head">PCAP & PCAPNG READER</a>
+          
+          <input type="checkbox"  id="check">
+
+          <label for="check" class="icons">
+              <i class='bx bx-menu' id="menu-icon"></i>
+              <i class='bx bx-x' id="close-icon"></i>
+          </label>
+          <nav class="navbar">
+            <a class="nav-link" href="/" style="--i:0;"><i class='bx bx-home-alt' ></i>HomePage
+            </a>
+              <a class="nav-link" href="#" style="--i:1;"><i class='bx bx-file' ></i>Your Result Files
+                
+              </a>
+              <a class="nav-link" href="#" style="--i:2;">Sign Out
+                <i class='bx bx-log-in-circle'></i>
+              </a>
+          </nav>
+      </header>
+      
+      <div class="container-box">
+            <div class="logo">
+              <img src="../static/img/UB.png" class ="logo-2" alt="UB">
+              <img src="../static/img/logo.png" class="logo-1" alt="logo-3">
+              <img src="../static/img/UTT.png" class ="logo-2" alt="UTT">
+          </div>
+          
+        <div class="container form">
+          <form class="allForm" id="allForm" action="/upload" method="post" enctype="multipart/form-data">
+
+          <div class="mb-3" style="margin-top: 50px; justify-items: center;align-items: center;">
+            <h1>Parameters Form</h1>
+          </div>
+
+          <div class="ip-container">
+            <label class="ip4" style="width: 9.5%;">Dosya Seç</label>
+            <input type="text" class="form-control ip" id="file" name="file" value="{{ session.file }}" style="text-align: start;">
+          </div>
+
+          <div class="input-group  mb-3" style="width: 80%;">
+            <label class="input-group-text" for="protocolType">Protocol Type</label>
+            <select class="form-select" id="protocolType" name="protocolType" >
+              <option value="{{ session.protocol_type }}">{{ session.protocol_type }}</option>
+              <option value="TCP">TCP</option>
+              <option value="UDP">UDP</option>
+            </select>
+          </div>
+    
+          <div class="ip-container">
+            <label class="ip4" for="sourceIp">Source IP Address</label>
+            <input type="text" class="form-control ip" id="sourceIp" name="sourceIp" value="{{ session.source_ip }}" />
+          </div>
+          
+          <div class="ip-container">
+            <label class="ip4">Source Port</label>
+            <input type="text" class="form-control ip" id="sourcePort" name="sourcePort" value="{{ session.source_port }}"/>
+          </div>        
+          
+          <div class="ip-container">
+            <label class="ip4" for="destinationIp">Destination IP Address</label>
+            <input type="text" class="form-control ip" id="destinationIp" name="destinationIp" value="{{ session.destination_ip }}"/>
+          </div>
+
+          <div class="ip-container">
+            <label class="ip4">Destination Port</label>
+            <input type="text" class="form-control ip" id="destinationPort" name="destinationPort" value="{{ session.destination_port }}" />
+          </div>
+          </form>
+            <div name="download" class="div-download">
+              <a href="/download/" target="blank" style="width: 100%;"><button class='btn-download'><i class="fa fa-download"></i>Download!</button></a>
+          </div>
+        </div>
+      </div>
+      <div class="footer">
+        <p class="footer-p">© Mühendislik Genel Müdür Yardımcılığı - Uçuş Test Teknik - 2023 </p>
+      </div>
+      <div id="loader" style="display:none" class="loader"></div> 
+
+      
+    <script src="../static/js/main.js"></script>
+    
+</body>
+</html>

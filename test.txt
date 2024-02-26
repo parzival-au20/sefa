@@ -1,0 +1,1430 @@
+1 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+2 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+3 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5682
+------Packet Finished--------
+
+4 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+5 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+6 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:None
+Hedef Port:None
+------Packet Finished--------
+
+7 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+8 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+9 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+10 ------Packet started--------
+
+Kaynak IP:None
+Hedef IP:None
+Protokol:None
+Kaynak Port:None
+Hedef Port:None
+------Packet Finished--------
+
+11 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+12 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+13 ------Packet started--------
+
+Kaynak IP:84.146.135.217
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+14 ------Packet started--------
+
+Kaynak IP:None
+Hedef IP:None
+Protokol:None
+Kaynak Port:None
+Hedef Port:None
+------Packet Finished--------
+
+15 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+16 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+17 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+19 ------Packet started--------
+
+Kaynak IP:None
+Hedef IP:None
+Protokol:None
+Kaynak Port:None
+Hedef Port:None
+------Packet Finished--------
+
+20 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+21 ------Packet started--------
+
+Kaynak IP:None
+Hedef IP:None
+Protokol:None
+Kaynak Port:None
+Hedef Port:None
+------Packet Finished--------
+
+22 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+23 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+24 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+25 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+26 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+27 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+28 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+29 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+30 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:55125
+Hedef Port:54740
+------Packet Finished--------
+
+31 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+32 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+33 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+34 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+35 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+36 ------Packet started--------
+
+Kaynak IP:217.170.170.170
+Hedef IP:170.170.170.170
+Protokol:17
+Kaynak Port:43690
+Hedef Port:43690
+------Packet Finished--------
+
+37 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:None
+Hedef Port:None
+------Packet Finished--------
+
+38 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+39 ------Packet started--------
+
+Kaynak IP:170.170.170.170
+Hedef IP:170.170.170.170
+Protokol:170
+Kaynak Port:None
+Hedef Port:None
+------Packet Finished--------
+
+40 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+41 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+42 ------Packet started--------
+
+Kaynak IP:None
+Hedef IP:None
+Protokol:None
+Kaynak Port:None
+Hedef Port:None
+------Packet Finished--------
+
+43 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+44 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+45 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:21845
+Hedef Port:21845
+------Packet Finished--------
+
+46 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+47 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+48 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+49 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+50 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+51 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+52 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+53 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+54 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:None
+Hedef Port:None
+------Packet Finished--------
+
+55 ------Packet started--------
+
+Kaynak IP:None
+Hedef IP:None
+Protokol:None
+Kaynak Port:None
+Hedef Port:None
+------Packet Finished--------
+
+56 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+57 ------Packet started--------
+
+Kaynak IP:None
+Hedef IP:None
+Protokol:None
+Kaynak Port:None
+Hedef Port:None
+------Packet Finished--------
+
+58 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+59 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+60 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+61 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+62 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+63 ------Packet started--------
+
+Kaynak IP:None
+Hedef IP:None
+Protokol:None
+Kaynak Port:None
+Hedef Port:None
+------Packet Finished--------
+
+64 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+65 ------Packet started--------
+
+Kaynak IP:None
+Hedef IP:None
+Protokol:None
+Kaynak Port:None
+Hedef Port:None
+------Packet Finished--------
+
+66 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+67 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+68 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+69 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+70 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5682
+Hedef Port:7078
+------Packet Finished--------
+
+71 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.114.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+72 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+73 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+74 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:81.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+75 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+76 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+77 ------Packet started--------
+
+Kaynak IP:None
+Hedef IP:None
+Protokol:None
+Kaynak Port:None
+Hedef Port:None
+------Packet Finished--------
+
+78 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+79 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.26.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+80 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+81 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+82 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.46
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+83 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+84 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+85 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+86 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+87 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+88 ------Packet started--------
+
+Kaynak IP:None
+Hedef IP:None
+Protokol:None
+Kaynak Port:None
+Hedef Port:None
+------Packet Finished--------
+
+89 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+90 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+91 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+92 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+93 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+94 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+95 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+96 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+97 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:None
+Hedef Port:None
+------Packet Finished--------
+
+98 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+99 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+1 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+2 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+3 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5682
+------Packet Finished--------
+
+4 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+5 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+6 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:None
+Hedef Port:None
+------Packet Finished--------
+
+7 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+8 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+9 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+10 ------Packet started--------
+
+Kaynak IP:None
+Hedef IP:None
+Protokol:None
+Kaynak Port:None
+Hedef Port:None
+------Packet Finished--------
+
+11 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+12 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+13 ------Packet started--------
+
+Kaynak IP:84.146.135.217
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+14 ------Packet started--------
+
+Kaynak IP:None
+Hedef IP:None
+Protokol:None
+Kaynak Port:None
+Hedef Port:None
+------Packet Finished--------
+
+15 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+16 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+17 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+19 ------Packet started--------
+
+Kaynak IP:None
+Hedef IP:None
+Protokol:None
+Kaynak Port:None
+Hedef Port:None
+------Packet Finished--------
+
+20 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+21 ------Packet started--------
+
+Kaynak IP:None
+Hedef IP:None
+Protokol:None
+Kaynak Port:None
+Hedef Port:None
+------Packet Finished--------
+
+22 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+23 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+24 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+25 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+26 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+27 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+28 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+29 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+30 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:55125
+Hedef Port:54740
+------Packet Finished--------
+
+31 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+32 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+33 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+34 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+35 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+36 ------Packet started--------
+
+Kaynak IP:217.170.170.170
+Hedef IP:170.170.170.170
+Protokol:17
+Kaynak Port:43690
+Hedef Port:43690
+------Packet Finished--------
+
+37 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:None
+Hedef Port:None
+------Packet Finished--------
+
+38 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+39 ------Packet started--------
+
+Kaynak IP:170.170.170.170
+Hedef IP:170.170.170.170
+Protokol:170
+Kaynak Port:None
+Hedef Port:None
+------Packet Finished--------
+
+40 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+41 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+42 ------Packet started--------
+
+Kaynak IP:None
+Hedef IP:None
+Protokol:None
+Kaynak Port:None
+Hedef Port:None
+------Packet Finished--------
+
+43 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+44 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+45 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:21845
+Hedef Port:21845
+------Packet Finished--------
+
+46 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+47 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+48 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+49 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+50 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+51 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+52 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+53 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+54 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:None
+Hedef Port:None
+------Packet Finished--------
+
+55 ------Packet started--------
+
+Kaynak IP:None
+Hedef IP:None
+Protokol:None
+Kaynak Port:None
+Hedef Port:None
+------Packet Finished--------
+
+56 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+57 ------Packet started--------
+
+Kaynak IP:None
+Hedef IP:None
+Protokol:None
+Kaynak Port:None
+Hedef Port:None
+------Packet Finished--------
+
+58 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+59 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+60 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------
+
+61 ------Packet started--------
+
+Kaynak IP:84.146.135.221
+Hedef IP:217.0.5.215
+Protokol:17
+Kaynak Port:7078
+Hedef Port:5690
+------Packet Finished--------
+
+62 ------Packet started--------
+
+Kaynak IP:217.0.5.215
+Hedef IP:84.146.135.221
+Protokol:17
+Kaynak Port:5690
+Hedef Port:7078
+------Packet Finished--------

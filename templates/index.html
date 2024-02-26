@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PCAP READER</title>
+    <link rel="stylesheet" href="../static/bootstrap-css/bootstrap.min.css">
+    <script src="../static/bootstrap-js/bootstrap.bundle.js"></script>
+    <script src="../static/js/jquery-3.6.0.min.js"></script>
+    <script src="../static/js/jquery.inputmask.min.js"></script>
+    <!-- <script src="../static/bootstrap-js/bootstrap.min.js"></script> -->
+    <link rel="stylesheet" href="../static/css/mystyle.css">
+    <script src="../static/js/jquery-ui.min.js"></script>
+    <link rel="stylesheet" href="../static/css/style.css">
+    <link href='../static/boxicons-2.1.4/css/boxicons.min.css' rel='stylesheet'>
+</head>
+
+<body>
+    
+    <!-- <nav class="navbar navbar-expand-lg navbar-dark bg-dark" >
+          <div style="display: flex; width: 100%;justify-content: center;">
+            <h4 style="color: white;">PCAP & PCAPNG READER</h4>
+        </div>
+      </nav> -->
+
+      <header class="header">
+        <a href="#" class="logo-head">PCAP & PCAPNG READER</a>
+        
+        <input type="checkbox"  id="check">
+
+        <label for="check" class="icons">
+            <i class='bx bx-menu' id="menu-icon"></i>
+            <i class='bx bx-x' id="close-icon"></i>
+        </label>
+        <nav class="navbar">
+          <div class="dropdown">
+            <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+              Recent Filters
+            </button>
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item" href="#">Filter 1</a></li>
+              <li><a class="dropdown-item" href="#">Filter 2</a></li>
+              <li><a class="dropdown-item" href="#">Filter 3</a></li>
+            </ul>
+          </div>
+            <a class="nav-link" href="#" style="--i:0;">Your Result Files</a>
+            <a class="nav-link" href="#" style="--i:1;">Sign Out
+              <i class='bx bx-log-in-circle'></i>
+            </a>
+        </nav>
+    </header>
+      
+      <div class="container-box">
+            <div class="logo">
+              <img src="../static/img/UB.png" class ="logo-2" alt="UB">
+              <img src="../static/img/logo.png" class="logo-1" alt="logo-3">
+              <img src="../static/img/UTT.png" class ="logo-2" alt="UTT">
+          </div>
+          
+        <div class="container form" id="container-form">
+          <form class="allForm" id="allForm" action="/upload" method="post" enctype="multipart/form-data" novalidate>
+          
+          <div class="column">
+            <div class="row head">             
+              <div class="mb-3" style="display:flex; justify-content:center; margin-top: 50px; justify-items: center;align-items: center;">
+            <h1>Parameters Form</h1>
+            </div>
+          </div>
+            <div class="row">
+              <div class="mb-3" style=" width: 80%; justify-items: center;align-items: center;">
+                <input class="form-control" name="file" type="file" id="uploadFile" accept=".pcap, .pcapng" required>
+                <div class="invalid-feedback">İnvalid form file feedback</div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="input-group  mb-3" style="width: 80%;">
+                <label class="input-group-text" for="protocolType">Protocol Type</label>
+                <select class="form-select" id="protocolType" name="protocolType" style="z-index:0" required>
+                  <option value="">Choose Protocol</option>
+                  <option value="TCP">TCP</option>
+                  <option value="UDP">UDP</option>
+                </select>
+                <div class="invalid-feedback">İnvalid select feedback</div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="ip-container" id="sourceCont">
+                <label class="ip4" for="sourceIp">Source IP Address</label>
+                <input type="text" class="form-control ip" id="sourceIp" name="sourceIp" placeholder="255.255.255.255" />
+              </div>
+              <div class="invalid-ip" id="invalidSource">
+                  You entered an invalid ip address !
+              </div>
+            </div>
+
+            <div class="row">
+              <div class="ip-container" id="sourcePortCont">
+                <label class="ip4">Source Port</label>
+                <input type="number" class="form-control ip" id="sourcePort" name="sourcePort" min="1" max="65535" placeholder="Please enter the source port number" />
+              </div>                
+            </div>
+
+            <div class="row">
+              <div class="ip-container" id="destCont">
+                <label class="ip4" for="destinationIp">Destination IP Address</label>
+                <input type="text" class="form-control ip" id="destinationIp" name="destinationIp" placeholder="255.255.255.255" />
+              </div>
+              <div class="invalid-ip" id="invalidDest">
+                You entered an invalid ip address !
+            </div>                
+            </div>
+
+            <div class="row">
+              <div class="ip-container" id="destPortCont">
+                <label class="ip4">Destination Port</label>
+                <input type="number" class="form-control ip" id="destinationPort" name="destinationPort" min="1" max="65535" placeholder="Please enter the destination port number" />
+              </div>                
+            </div>
+
+            <div class="row">
+                <div class="ip-container" style="justify-content: flex-end;">
+                  <button type="submit" id="send"  class="btn btn-success" value="Upload" >Gönder</button>
+                </div>
+            </div>
+
+          </div>
+          </form>
+        </div>
+      </div>
+      <div class="footer">
+        <p class="footer-p">© Mühendislik Genel Müdür Yardımcılığı - Uçuş Test Teknik - 2023 </p>
+      </div>
+    <div id="loader" style="display:none" class="loader"></div> 
+
+      
+    <script src="../static/js/main.js"></script>
+    
+</body>
+</html>
